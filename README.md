@@ -26,6 +26,9 @@ This utility is part of an internship task designed to provide hands-on experien
 
 "OUTPUT"
 
+Write content to a text file
+
+![Image](https://github.com/user-attachments/assets/181562e6-87b2-45e3-ac83-00644487cf9f)
 
 
 
