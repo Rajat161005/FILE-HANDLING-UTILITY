@@ -30,6 +30,10 @@ Write content to a text file
 
 ![Image](https://github.com/user-attachments/assets/181562e6-87b2-45e3-ac83-00644487cf9f)
 
+Output of Program
+
+![Image](https://github.com/user-attachments/assets/393a6faf-466c-486b-b8a1-0987ed6cb40e)
+
 
 
 
